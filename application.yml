@@ -1,1 +1,3 @@
-age: remote 16
+spring:
+  profiles:
+    active: test
